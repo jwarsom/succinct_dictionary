@@ -1,0 +1,1 @@
+# succinct_dictionary
